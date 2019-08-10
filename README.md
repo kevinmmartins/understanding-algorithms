@@ -16,3 +16,7 @@ Implementation of the most common algorithms
 ## Number of Items By Recursion
 
 `` node number-of-items.js ``
+
+## Get the highest number from a list by recursion
+
+`` node highest-value-by-recursion.js ``
