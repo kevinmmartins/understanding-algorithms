@@ -20,3 +20,7 @@ Implementation of the most common algorithms
 ## Get the highest number from a list by recursion
 
 `` node highest-value-by-recursion.js ``
+
+## Quicksort
+
+`` node quicksort.js ``

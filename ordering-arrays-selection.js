@@ -1,4 +1,4 @@
-const findlessElementIndex = (array) => {
+const findLessElementIndex = (array) => {
     let less = array[0];
     let lessIndex = 0;
     for (let i = 1; i < array.length; i++) {
@@ -19,7 +19,7 @@ const orderingBySelection = (array) => {
     let newArray = [];
     const size = array.length;
     for (let i = 0; i < size; i++) {
-        const lessIndex = findlessElementIndex(array);
+        const lessIndex = findLessElementIndex(array);
         newArray.push(array[lessIndex]);
         array = removeArrayValue(array, lessIndex);
     }
