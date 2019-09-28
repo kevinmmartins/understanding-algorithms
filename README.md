@@ -24,3 +24,11 @@ Implementation of the most common algorithms
 ## Quicksort
 
 `` node quicksort.js ``
+
+## Bike parking problem
+
+`` node bike-parking.js ``
+
+## Plane seats problem
+
+`` node bike-parking.js ``
