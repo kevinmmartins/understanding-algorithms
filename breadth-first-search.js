@@ -31,7 +31,7 @@ grafo["xico"] = [];
 grafo["renan"] = [];
 grafo["mi"] = [];
 grafo["gabriel"] = [];
-let stack = [];
+const stack = [];
 pushElements(stack, grafo["kevin"]);
 console.log(stackSearch(stack, grafo));
 
@@ -39,7 +39,7 @@ const grafo2 = {};
 grafo2["kevin"] = ["kauan"];
 grafo2["kauan"] = ["lucas"];
 grafo2["lucas"] = [];
-let stack2 = [];
+const stack2 = [];
 pushElements(stack2, grafo2["kevin"]);
 console.log(stackSearch(stack2, grafo2));
 
