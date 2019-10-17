@@ -32,3 +32,7 @@ Implementation of the most common algorithms
 ## Plane seats problem
 
 `` node bike-parking.js ``
+
+## Breadth first search
+
+`` node breadth-first-search.js ``
