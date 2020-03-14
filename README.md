@@ -36,3 +36,7 @@ Implementation of the most common algorithms
 ## Breadth first search
 
 `` node breadth-first-search.js ``
+
+## Bubble Sort
+
+`` node bubble-sort.js ``
